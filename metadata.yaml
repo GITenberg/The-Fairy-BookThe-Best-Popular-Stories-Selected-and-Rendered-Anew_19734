@@ -1,0 +1,46 @@
+_repo: The-Fairy-BookThe-Best-Popular-Stories-Selected-and-Rendered-Anew_19734
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Craik, Dinah Maria Mulock
+    aliases:
+    - Mulock, Miss
+    - Mulock, Dinah Maria
+    birthdate: 1826
+    deathdate: 1887
+    gutenberg_agent_id: '264'
+    url: http://www.gutenberg.org/2009/agents/264
+    wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
+description: A collection of classic tales, some English, and some from Perrault,
+  d'Aulnois, and Grimm.
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2006-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore'
+tableOfContents: The sleeping beauty in the wood -- Hop-O'-My-Thumb -- Cinderella;
+  or, the little glass slipper -- Adventures of John Dietrich -- Beauty and the Beast
+  -- Little One Eye, Little Two Eyes, and Little Three Eyes -- Jack the giant-killer
+  -- Tom Thumb -- Rumpelstilzchen -- Fortunatus -- The Bremen Town Musicians -- Riquet
+  with the tuft -- House Island -- Snow-White and Rose-Red -- Jack and the bean-stalk
+  -- Graciosa and Percinet -- The iron stove -- The invisible prince -- The woodcutter's
+  daughter -- Brother and sister -- Little Red-Riding-Hood -- Puss in Boots -- The
+  wolf and the seven young goslings -- The fair one with golden looks -- The butterfly
+  -- The frog-prince -- The white cat -- Prince Cherry -- Little Snowdrop -- The blue
+  bird -- The yellow dwarf -- The six swans -- The prince with the nose -- The hind
+  of the forest -- The juniper tree -- Clever Alice.
+title: 'The Fairy Book
+
+  The Best Popular Stories Selected and Rendered Anew'
+url: http://www.gutenberg.org/ebooks/19734
