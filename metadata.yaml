@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
 description: A collection of classic tales, some English, and some from Perrault,
   d'Aulnois, and Grimm.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19734#The-Fairy-BookThe-Best-Popular-Stories-Selected-and-Rendered-Anew
 gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
 gutenberg_issued: '2006-11-07'
 gutenberg_type: Text
